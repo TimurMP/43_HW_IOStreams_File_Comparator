@@ -35,7 +35,7 @@ public class FileComparator {
             throw new RuntimeException(e);
         }
 
-        System.out.println("Comparison completed, no diffs found");
+        System.out.println("Comparison completed, no diffs found.");
 
     }
 
